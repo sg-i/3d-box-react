@@ -1,0 +1,1 @@
+Облачная функция создана в Yandex Cloud. На вход принимает length, width, height куба. Считает и возвращает данные для BufferGeometry.
